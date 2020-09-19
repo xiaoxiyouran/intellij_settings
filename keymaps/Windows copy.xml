@@ -4,6 +4,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="CheckinProject" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
@@ -39,6 +40,10 @@
   <action id="PreviousTab" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl f" />
   </action>
   <action id="Vcs.ToggleAmendCommitMode" />
 </keymap>
