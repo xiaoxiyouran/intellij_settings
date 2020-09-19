@@ -4,6 +4,9 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="CMake.ReloadCMakeProject">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="CheckinProject" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
