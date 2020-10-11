@@ -16,6 +16,8 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CopyElement" />
+  <action id="DatabaseView.CopyTable" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="EditorDecreaseFontSize">
@@ -45,6 +47,7 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="Graph.ApplyCurrentLayout" />
   <action id="NextTab" />
   <action id="PreviousTab" />
   <action id="QuickJavaDoc">
@@ -59,6 +62,14 @@
   </action>
   <action id="ResetToTheirsSettings">
     <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="hg4idea.QFold" />
