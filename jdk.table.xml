@@ -1,0 +1,60 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7 (GameData)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.5" />
+      <homePath value="H:\0_MS_trunk\proj_src\config\GameData\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://H:/0_MS_trunk/proj_src/config/GameData/venv/Lib" type="simple" />
+            <root url="file://H:/0_MS_trunk/proj_src/config/GameData/venv/Scripts" type="simple" />
+            <root url="file://H:/0_MS_trunk/proj_src/tools/protocol/Python/Lib" type="simple" />
+            <root url="file://H:/0_MS_trunk/proj_src/tools/protocol/Python/DLLs" type="simple" />
+            <root url="file://H:/0_MS_trunk/proj_src/tools/protocol/Python/Lib/lib-tk" type="simple" />
+            <root url="file://H:/0_MS_trunk/proj_src/config/GameData/venv" type="simple" />
+            <root url="file://H:/0_MS_trunk/proj_src/config/GameData/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.1/python_stubs/1253127316" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="H:/0_MS_trunk/proj_src/config/GameData" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (GameData) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.18" />
+      <homePath value="D:\Python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Python27/DLLs" type="simple" />
+            <root url="file://D:/Python27/Lib" type="simple" />
+            <root url="file://D:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://D:/Python27" type="simple" />
+            <root url="file://D:/Python27/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.1/python_stubs/1494736245" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
