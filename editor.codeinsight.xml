@@ -1,0 +1,5 @@
+<application>
+  <component name="Go">
+    <option name="renamePackageOnDirectoryRenaming" value="YES" />
+  </component>
+</application>
