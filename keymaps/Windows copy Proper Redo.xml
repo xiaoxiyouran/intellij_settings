@@ -16,6 +16,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="Console.TableResult.HideEditMaximized">
+    <keyboard-shortcut first-keystroke="shift escape" />
+  </action>
   <action id="CopyElement" />
   <action id="DatabaseView.CopyTable" />
   <action id="Diff.NextChange" />
@@ -48,6 +51,10 @@
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="Graph.ApplyCurrentLayout" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="NextTab" />
   <action id="PreviousTab" />
   <action id="QuickJavaDoc">
@@ -56,6 +63,9 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl f" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="ResetToMySettings">
     <keyboard-shortcut first-keystroke="shift alt u" />
@@ -71,6 +81,8 @@
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="hg4idea.QFold" />
 </keymap>
