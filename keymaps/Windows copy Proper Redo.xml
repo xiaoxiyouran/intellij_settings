@@ -31,6 +31,8 @@
     <mouse-shortcut keystroke="control button143" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="ExpressionTypeInfo" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
@@ -55,7 +57,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
   <action id="NextTab" />
+  <action id="ParameterInfo" />
   <action id="PreviousTab" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
