@@ -1,5 +1,24 @@
 <application>
+  <component name="GroupManager">
+    <expandedByName>
+      <entry name="Tutorials" expanded="true" />
+      <entry name="Projects" expanded="true" />
+    </expandedByName>
+  </component>
   <component name="LangManager">
     <option name="languageName" value="go" />
+  </component>
+  <component name="LessonStateBase">
+    <option name="map">
+      <map>
+        <entry key="basic completion" value="NOT_PASSED" />
+        <entry key="debug function calls" value="NOT_PASSED" />
+        <entry key="goland2019.3.extractvariablewitherror" value="NOT_PASSED" />
+        <entry key="gophercon.codeformatting" value="NOT_PASSED" />
+        <entry key="live and postfix templates: else, fori, and vars" value="NOT_PASSED" />
+        <entry key="quick-fixes, refactorings, and external documentation" value="NOT_PASSED" />
+        <entry key="working with variadic functions" value="NOT_PASSED" />
+      </map>
+    </option>
   </component>
 </application>
