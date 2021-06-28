@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="load_config" type="Go" />
       <mapping pattern="opskit" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
